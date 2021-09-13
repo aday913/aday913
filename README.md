@@ -1,12 +1,16 @@
 # I'm Alexander Day, welcome to my page!  
 
+[![Twitter: AlexanderSDay](https://img.shields.io/twitter/follow/AlexanderSDay?style=social)](https://twitter.com/AlexanderSDay)
+[![Linkedin: alexander-day913](https://img.shields.io/badge/alexanderday913-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/alexander-day913/)
+[![GitHub aday913](https://img.shields.io/github/followers/aday913?label=follow&style=social)](https://github.com/aday913)
+
 ### About me: I'm a 4th year PhD candidate at the University of Arizona studying Biomedical Engineering in Dr. Jeong-Yeol Yoon's Biosensors laboratory.  
 
-(he/him/his)  
+<em>Pronouns: he/him/his</em>  
 
 Within my repositories, you'll find some publicly-available projects I've used to complete some of my research, as well as some side-projects I've worked on (both finished and unfinished)
 
-[You can find my lab's GitHub organization here!](https://github.com/yoon-bsl)
+[You can find my lab's GitHub organization here!](https://github.com/yoon-bsl)  
 
 Here's a list of some of my publications:
 * [Emulsion-based Isothermal Nucleic Acid Amplification for Rapid SARS-CoV-2 Detection via Angle-dependent Light Scatter Analysis](https://doi.org/10.1016/j.bios.2021.113099)
