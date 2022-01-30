@@ -10,6 +10,8 @@
 
 Within my repositories, you'll find some publicly-available projects I've used to complete some of my research, as well as some side-projects I've worked on (both finished and unfinished)
 
+My current ongoing side project: [a bot to help me solve daily Wordle challenges!](https://github.com/aday913/wordle-helper)
+
 [You can find my lab's GitHub organization here!](https://github.com/yoon-bsl)  
 
 Here's a list of some of my publications:
