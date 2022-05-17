@@ -4,7 +4,7 @@
 [![Linkedin: alexander-day913](https://img.shields.io/badge/alexanderday913-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-day913/)](https://www.linkedin.com/in/alexander-day913/)
 [![GitHub aday913](https://img.shields.io/github/followers/aday913?label=follow&style=social)](https://github.com/aday913)
 
-### About me: I'm an aspiring data scientist with a background in biomedical engineering (I finished my PhD at the University of Arizona studying Biomedical Engineering in Dr. Jeong-Yeol Yoon's Biosensors laboratory, working on novel diagnostic biosensors). I'm looking forward to entering the biotech/healthcare field to improve patient outcomes, and help bring in the next age of medicine!   
+### About me: I'm a clinical imaging data manger working for Roche Genentech! I finished my PhD at the University of Arizona studying Biomedical Engineering in Dr. Jeong-Yeol Yoon's Biosensors laboratory, working primarily on novel diagnostic biosensors, in January of 2022.  
 
 <em>Pronouns: he/him/his</em>  
 
@@ -12,7 +12,7 @@ Within my repositories, you'll find some publicly-available projects I've used t
 
 My current ongoing side project: [a bot to help me solve daily Wordle challenges!](https://github.com/aday913/wordle-helper)
 
-[You can find my lab's GitHub organization here!](https://github.com/yoon-bsl)  
+[You can find my PI's GitHub organization here!](https://github.com/yoon-bsl)  
 
 Here's a list of some of my publications:
 * [Natural Killer Cell Subpopulation Analysis via a Smartphone and Machine Learning](https://doi.org/10.1016/j.bios.2021.113916)
