@@ -12,7 +12,7 @@ Within my repositories, you'll find some publicly-available projects I've used t
 
 My current ongoing side project: [a bot to help me solve daily Wordle challenges!](https://github.com/aday913/wordle-helper)
 
-[You can find my PI's GitHub organization here!](https://github.com/yoon-bsl)  
+[You can find my old PI's GitHub organization here!](https://github.com/yoon-bsl)  
 
 Here's a list of some of my publications:
 * [Natural Killer Cell Subpopulation Analysis via a Smartphone and Machine Learning](https://doi.org/10.1016/j.bios.2021.113916)
